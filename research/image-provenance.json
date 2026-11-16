@@ -1,0 +1,158 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-07.jpg",
+    "sha256": "705d44e38d6d238d4842dfde004a79997d4d6f84e3aba33a84d741da878192f2",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-01.jpg",
+    "sha256": "610eb56e0d4885ba19eed76b283aa0af5c8b844bc3264476e90608da1efbf9a9",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-10.jpg",
+    "sha256": "7b8300bc21d9c081bccfb4425a5e8b2437bc4433d00aed0b3aa86a7d1d5bd619",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-02.jpg",
+    "sha256": "c75c3e6b3fe4e3970d9a3301fa4be2fad26d86ad64d0e0f34a4898a76f14b1a1",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-03.jpg",
+    "sha256": "01f5761555f9b172c7ea718f9ee672f3d118aeb367e53410961024462cf87969",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-04.jpg",
+    "sha256": "c75498d9fcbaf97b186f8e533151695f4ed300de17cbeac93e2f182ae6d063f9",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-05.jpg",
+    "sha256": "a71ac51c2fd1554fcb1da831a7e7b47ee3849210d5b97af87e0d5b8f18e4b394",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-06.jpg",
+    "sha256": "326c762e5e8b4f0e32e5dbb6fcb4a512381edbc9d92116902c81f0d5900562ef",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-08.jpg",
+    "sha256": "f73260477bde14337dd4a851bc4803241074ff26978f0d7c428914a2727cb7af",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-09.jpg",
+    "sha256": "0350779b4b9ac11fe2e874673f9f6325eca835b973a20563dfd8514bd7816809",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-11.jpg",
+    "sha256": "9b68266d69765d31db6797229efab5eb281836ebc0102d6bfeba73c4ec8b80a0",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-12.jpg",
+    "sha256": "d695c978191d79011218a1acc4143ef2b2b8df3db29248570868581127ae9c20",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]

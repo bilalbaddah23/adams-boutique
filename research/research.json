@@ -1,0 +1,427 @@
+{
+  "brand": "Adam's Boutique",
+  "handle": "adams.boutique",
+  "instagram": "https://www.instagram.com/adams.boutique/",
+  "contactMode": "whatsapp",
+  "phone": "9613524206",
+  "displayPhone": "+961 3 524 206",
+  "hours": "Confirm with the boutique",
+  "followersObserved": 20696,
+  "followersDisplay": "20.7K",
+  "postCountObserved": null,
+  "latestVisiblePost": "2026-11-11",
+  "researchDate": "2026-11-16",
+  "profileObservedDate": "2026-11-15",
+  "profileBio": "Adam’s Boutique 👗👠\n📍 Beirut – Under Salim Slam Bridge\n🚚 Delivery available everywhere\n📱 For more info Dm or 03 524 206",
+  "bioLinks": [],
+  "branches": [
+    {
+      "name": "Beirut — under Salim Slam Bridge",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Adams+Boutique+Salim+Slam+Beirut+Lebanon",
+      "mapType": "Address-based search, not a verified precise pin"
+    }
+  ],
+  "about": "Adam’s Boutique is a women’s clothing shop whose public profile lists a location under Salim Slam Bridge in Beirut. Its public collection includes jackets, knitwear, trousers, skirts and everyday tops. The shop provides a public phone number and invites direct enquiries.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-07.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-09.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-02.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-03.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-05.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-07.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-08.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-09.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-11.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "buckle-jacket-edit",
+      "name": "Buckle Jacket Edit",
+      "category": "Jackets",
+      "description": "Three photographed jackets with statement buckle-style front fastenings. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/p/DfFhzKpsWPt/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "wide-leg-trouser-edit",
+      "name": "Wide-Leg Trouser Edit",
+      "category": "Trousers",
+      "description": "A selection of wide-leg trousers shown on the boutique rack. The second view shows another photographed trouser reference; colours and exact pieces require confirmation. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-01.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfnE7u3sAOu/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "long-skirt-edit",
+      "name": "Long Skirt Edit",
+      "category": "Skirts",
+      "description": "A long light-grey skirt photographed on the shop rack. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/Dfj4T4ks2Vj/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "belted-coat-edit",
+      "name": "Belted Coat Edit",
+      "category": "Coats",
+      "description": "A dark belted coat shown beside a camel-colour coat. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfUZfOxsLFp/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "winter-knit-edit",
+      "name": "Winter Knit Edit",
+      "category": "Knitwear",
+      "description": "A rail of relaxed high-neck knitwear in several colours. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfPLFJlstmd/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "plum-top-look",
+      "name": "Plum Top Look",
+      "category": "Tops",
+      "description": "A plum-colour top styled with blue jeans in a boutique mirror view. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfKeZOhM_P-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "quilted-jacket-edit",
+      "name": "Quilted Jacket Edit",
+      "category": "Outerwear",
+      "description": "Quilted jackets with plush-looking collar details shown in the boutique. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfHeV9TMx8N/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "padded-vest-edit",
+      "name": "Padded Vest Edit",
+      "category": "Outerwear",
+      "description": "A padded sleeveless-looking outerwear reference with plush-looking collar trim. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfDDdYAMt2H/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "dark-plum-shirt-look",
+      "name": "Dark Plum Shirt Look",
+      "category": "Tops",
+      "description": "A dark plum shirt-like top styled with blue jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfDCjrEMH9-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-high-neck-top",
+      "name": "Black High-Neck Top",
+      "category": "Tops",
+      "description": "Close view of a black high-neck top. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DejLjcvM1UO/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "red-top-look",
+      "name": "Red Top Look",
+      "category": "Tops",
+      "description": "A red top styled with dark cropped trousers in the boutique mirror. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/Ded8yk6MGXQ/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "alt": "Video by Adam's Boutique on November 11, 2026. May be an image of activewear, pants, clothes hanger, rack and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/900481945_1041579515634145_2664622424040215318_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eSUuSUvBYFgQ7kNvwGIP7V4&_nc_oc=AdoZXjdPkBCvZ2lpr8NKNpSxLTyELD6aL84g_BYtApckI6y3JY1gj_UXg7R_9mi1Cl8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTflVp2J240tst9sX9LiTWkCt5yOs2lJjuq5r0WMlo03Q&oe=6AFFF4F9",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfnE7u3sAOu/",
+      "width": 361,
+      "height": 640,
+      "sha256": "610eb56e0d4885ba19eed76b283aa0af5c8b844bc3264476e90608da1efbf9a9",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-11-11",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on November 10, 2026. May be an image of skirt and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902586817_1124129527209692_9114811972192717024_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WnYyiPC8oAUQ7kNvwHh0QyP&_nc_oc=Adri-O5dI34VsASKK67SfqO7feab37yQ92HiXOj9yGwqjcb51OLRlDWecOIXRCFV6Mg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTW3y7N5H6-akB4f9Ixf6UnqtNGLwdFJEUc396U61Yrfg&oe=6AFFE7D1",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/Dfj4T4ks2Vj/",
+      "width": 361,
+      "height": 640,
+      "sha256": "c75c3e6b3fe4e3970d9a3301fa4be2fad26d86ad64d0e0f34a4898a76f14b1a1",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-11-10",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on November 04, 2026. May be an image of overcoat, parka, jacket, clothes hanger, fleece and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/881258593_1485591583418904_3481674207121771551_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=egHzMQMH2aQQ7kNvwHcH7eG&_nc_oc=AdoRGyx8FS7AMz-VZnQPBCfrz0oT9WBIuRsfY5Cs4pITrHhP33qRUMIk72m1YS8ihgw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS0cfQzvhJtrlYGlficv-ePLt6dja-v7WGR9Wm5njfeBg&oe=6B0004C0",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfUZfOxsLFp/",
+      "width": 360,
+      "height": 640,
+      "sha256": "01f5761555f9b172c7ea718f9ee672f3d118aeb367e53410961024462cf87969",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-11-04",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on November 02, 2026. May be an image of mannequin, clothes hanger, rack, turtleneck and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/887929320_1440497534886596_9004305384655192351_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f8BKkLd44IIQ7kNvwF1_b7J&_nc_oc=Adq8tsVDp-zSVEV3jPJ52ANwDu-WzEN6GDwpBwTikNV1_NmCGOgWThgLChKZSLaq2Yk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRZReLFH6JJvpx9nUIP2BmifFDgffezRKxTmYKxH_l2Fg&oe=6AFFF73F",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfPLFJlstmd/",
+      "width": 361,
+      "height": 640,
+      "sha256": "c75498d9fcbaf97b186f8e533151695f4ed300de17cbeac93e2f182ae6d063f9",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-11-02",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 31, 2026. May be an image of mirror, clothes hanger and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/872488207_1618139909795445_7923957782609401168_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FyoaWpuCEp8Q7kNvwGec8Oq&_nc_oc=AdofPNEPZzX9bZhW92edEB84D-pvD-wqD4OGeQI_Rp9w2jZhxg_mnOXTcKPihJFBiEE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR-KT-r6dsP2m8nGOmluKTtPxYTTalW70npkhi0nuY6og&oe=6AFFF03B",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfKeZOhM_P-/",
+      "width": 360,
+      "height": 640,
+      "sha256": "a71ac51c2fd1554fcb1da831a7e7b47ee3849210d5b97af87e0d5b8f18e4b394",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-31",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 30, 2026. May be an image of goosedown coat, sable coat, jacket, parka, clothes hanger and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/869926038_2030005884376749_8068361336157932014_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MWszHpzlrdIQ7kNvwGPhEgE&_nc_oc=Adp5-T4IxqfTOfWI-qYNnEfN_kY6Sy0Y5C1ZQq8l4m3EeJGYxqeF_bcr_y6mDXE6CBw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTGSIRYcZuL3Jp2ZmOtapyqN9AuSP3OQwJQEj0pXvGoBg&oe=6AFFE528",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfHeV9TMx8N/",
+      "width": 361,
+      "height": 640,
+      "sha256": "326c762e5e8b4f0e32e5dbb6fcb4a512381edbc9d92116902c81f0d5900562ef",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-30",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Photo by Adam's Boutique on October 29, 2026. May be an image of overcoat, blazer, jacket and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-07.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/870803255_18576020158079928_3324248682713259536_n.webp?_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODc2Njg5NDE2MzEyNTIyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ETUZ9zyd5uAQ7kNvwEZEp01&_nc_oc=AdrLqQRP5OeaFJRyEJi99-WaPLvfiGI-51SM0obOF6FJ3zJyzWUYy8OmEnb8kN9h8mM&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=J-cXO1rbjZrB3ucCRyJ8xA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSj2YKZsgqUmbCTQaDc6YVuRemTnBSLiFE3v0VyR1xQ6w&oe=6B001527",
+      "sourcePost": "https://www.instagram.com/adams.boutique/p/DfFhzKpsWPt/",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "705d44e38d6d238d4842dfde004a79997d4d6f84e3aba33a84d741da878192f2",
+      "sourceImageType": "Instagram photo/carousel still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered October29 Instagram permalink photograph, full native1440px source. No upscaling.",
+      "postDate": "2026-10-29",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 28, 2026. May be an image of goosedown coat, sable coat, vest, jacket, parka, fleece and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/869128114_28490651073970684_1675986872221299301_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xjYk1HBQNXIQ7kNvwGF4Rdb&_nc_oc=AdrzexjEjjmJrNyUGOaOXmBdTDtfs0IJhwvsADqYM2TEVXAyWnp7uDjAc4EhbnOv1RU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTziiu0k63Ykk-poKRDQqHSESB8vkaJR4bhiJ6f-G4VUA&oe=6AFFF14A",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfDDdYAMt2H/",
+      "width": 360,
+      "height": 640,
+      "sha256": "f73260477bde14337dd4a851bc4803241074ff26978f0d7c428914a2727cb7af",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-28",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 28, 2026. May be an image of clothes hanger, turtleneck and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/874101161_2200398737492491_5397975265139183696_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5Qh6GQ6coU0Q7kNvwGHAmit&_nc_oc=Ado4Gx-8soS8uZMUCyWbCUU7DPXt77gp7-EONw1NByDFZwfbzyTnwTMvoX-7HbrJh6c&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSNVN7n4fZoFs5-cPS_9TirOXbNI-ygS9Ry_zsQPUNidw&oe=6B000115",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DfDCjrEMH9-/",
+      "width": 360,
+      "height": 640,
+      "sha256": "0350779b4b9ac11fe2e874673f9f6325eca835b973a20563dfd8514bd7816809",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-28",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 27, 2026. May be an image of towel rack, rack, clothes hanger, indoors and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/867028579_987691754390111_620300910647374862_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HUIwodxYAaQQ7kNvwFgLmdM&_nc_oc=Adq3mlKJDLhnTEq_vL-u8H_Jgrq1XLYfm4hjVHfynp_REIScNh4b4jyAvMc7LV16CeY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTCv0fGnk0iVLX6SYKUrVuRVQqCbP4BLUJ7J8R7D6Wcqg&oe=6AFFFFDD",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/De_lBB2M6Wg/",
+      "width": 360,
+      "height": 640,
+      "sha256": "7b8300bc21d9c081bccfb4425a5e8b2437bc4433d00aed0b3aa86a7d1d5bd619",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-27",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 16, 2026. May be an image of top, turtleneck and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/849319895_18572103676079928_6284051274146936864_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EsZiMOYb_6UQ7kNvwHscRiN&_nc_oc=AdrO8Yv7EXmXUYH0L2H95HzDxEuzXDNMu0HSBAu7gVTKNVYcOrYDMg24O4KVNQSm70M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTa3vNYW0y_eg3FTHwkVGjcaqIpAh28gNDWjKrSIuVRlw&oe=6AFFE5C2",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/DejLjcvM1UO/",
+      "width": 360,
+      "height": 640,
+      "sha256": "9b68266d69765d31db6797229efab5eb281836ebc0102d6bfeba73c4ec8b80a0",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-16",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by Adam's Boutique on October 14, 2026. May be an image of top, mirror and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\adams-boutique\\images\\adams-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/849194572_18571510354079928_443122353850526362_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dg9Gkr3zLj8Q7kNvwEf_bcO&_nc_oc=AdpANMs36ZpiDUFIdGCOFzo8qa24ZQlm4KNIkC5jt3aOj3yvc-6FVfFncl4NuoaCe0A&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jPSYDfbN-Ad1R5hz67bhfQ&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRBZtDjKxsyUH-azrPphaVRtECzwXkpiiB7In0lpNeNwQ&oe=6B00000B",
+      "sourcePost": "https://www.instagram.com/adams.boutique/reel/Ded8yk6MGXQ/",
+      "width": 360,
+      "height": 640,
+      "sha256": "d695c978191d79011218a1acc4143ef2b2b8df3db29248570868581127ae9c20",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile DOM; still cover or photo already visible on profile; no video frames extracted.",
+      "postDate": "2026-10-14",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    }
+  ],
+  "websiteScreening": {
+    "checkedDate": "2026-11-16",
+    "result": "No matching official website found in checked public links and searches",
+    "queries": [
+      "\"adams.boutique\" Lebanon website",
+      "\"Adam's Boutique\" \"Lebanon\" website",
+      "\"03524206\" shop boutique"
+    ],
+    "evidence": [
+      "Primary Instagram full bio displays a Beirut location and03 524206; there is no external shop website link.",
+      "Recent primary profile posts are dated November11,10,4 and2,2026.",
+      "The bounded exact name/handle/phone searches returned social analytics listings and unrelated numeric matches, without a matching official shop domain.",
+      "Phone03 524206 is normalized to Lebanon international9613524206. Public secondary profile history explicitly says DM or WhatsApp on03524206: https://starngage.com/plus/en-us/brands/instagram/adams.boutique"
+    ],
+    "uncertainty": "No global absence guarantee; a privately shared or unindexed website cannot be ruled out.",
+    "primaryProfile": "https://www.instagram.com/adams.boutique/",
+    "profileEvidence": "profile-dom.txt"
+  },
+  "limitations": [
+    "No matching official website was found in the checked public profile links and bounded business/handle/contact searches; an unlisted website cannot be ruled out.",
+    "Public-source imagery needs owner review before final commercial launch. No generated imagery or extracted video frames.",
+    "Reel covers have native360/361×640 dimensions and must not be enlarged beyond native detail; use the documented full-size photograph(s) for hero views.",
+    "No prices, stock, materials or exact size availability are asserted. Visible price overlays belong to historical source images and are not current catalogue prices."
+  ]
+}

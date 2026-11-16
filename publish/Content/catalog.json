@@ -1,0 +1,222 @@
+{
+  "brand": "Adam’s Boutique",
+  "contactMode": "whatsapp",
+  "phone": "9613524206",
+  "displayPhone": "+961 3 524 206",
+  "instagram": "https://www.instagram.com/adams.boutique/",
+  "hours": "Confirm with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-10.jpg",
+  "galleryImages": [
+    "/images/collection-02.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "buckle-jacket-edit",
+      "name": "Buckle Jacket Edit",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "Three photographed jackets with statement buckle-style front fastenings. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/p/DfFhzKpsWPt/"
+    },
+    {
+      "id": "wide-leg-trouser-edit",
+      "name": "Wide-Leg Trouser Edit",
+      "collection": "Trousers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A selection of wide-leg trousers shown on the boutique rack. The second view shows another photographed trouser reference; colours and exact pieces require confirmation. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfnE7u3sAOu/"
+    },
+    {
+      "id": "long-skirt-edit",
+      "name": "Long Skirt Edit",
+      "collection": "Skirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long light-grey skirt photographed on the shop rack. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/Dfj4T4ks2Vj/"
+    },
+    {
+      "id": "belted-coat-edit",
+      "name": "Belted Coat Edit",
+      "collection": "Coats",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark belted coat shown beside a camel-colour coat. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfUZfOxsLFp/"
+    },
+    {
+      "id": "winter-knit-edit",
+      "name": "Winter Knit Edit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A rail of relaxed high-neck knitwear in several colours. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfPLFJlstmd/"
+    },
+    {
+      "id": "plum-top-look",
+      "name": "Plum Top Look",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A plum-colour top styled with blue jeans in a boutique mirror view. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfKeZOhM_P-/"
+    },
+    {
+      "id": "quilted-jacket-edit",
+      "name": "Quilted Jacket Edit",
+      "collection": "Outerwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Quilted jackets with plush-looking collar details shown in the boutique. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfHeV9TMx8N/"
+    },
+    {
+      "id": "padded-vest-edit",
+      "name": "Padded Vest Edit",
+      "collection": "Outerwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A padded sleeveless-looking outerwear reference with plush-looking collar trim. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfDDdYAMt2H/"
+    },
+    {
+      "id": "dark-plum-shirt-look",
+      "name": "Dark Plum Shirt Look",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark plum shirt-like top styled with blue jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DfDCjrEMH9-/"
+    },
+    {
+      "id": "black-high-neck-top",
+      "name": "Black High-Neck Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Close view of a black high-neck top. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/DejLjcvM1UO/"
+    },
+    {
+      "id": "red-top-look",
+      "name": "Red Top Look",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red top styled with dark cropped trousers in the boutique mirror. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/adams.boutique/reel/Ded8yk6MGXQ/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Beirut — under Salim Slam Bridge",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Adams+Boutique+Salim+Slam+Beirut+Lebanon",
+      "mapType": "Address-based search, not a verified precise pin"
+    }
+  ]
+}
